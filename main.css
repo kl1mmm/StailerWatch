@@ -1,0 +1,192 @@
+html {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: white;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.menu1,
+.menu2 {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 15px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.leftside {
+  margin-left: 1%;
+}
+
+.rightside {
+  margin-right: 2%;
+}
+
+#gray {
+  color: grey;
+}
+
+.logo-menu {
+  position: absolute;
+  right: 50%;
+}
+
+nav a {
+  margin-right: 15px;
+}
+
+.menu1,
+.menu2 {
+  color: black;
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+}
+
+.types ul li {
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  line-height: 156%;
+}
+
+.types ul {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 0px;
+  list-style-type: none;
+}
+
+.nondecor {
+  text-decoration: none;
+  color: black;
+}
+
+.OrigColl {
+  display: block;
+  margin-top: 2%;
+}
+
+.OrigColl img {
+  width: 70%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.OrigColl .nametag {
+  padding-top: 2%;
+}
+
+.series {
+  display: inline-flex;
+  align-items: baseline;
+  margin-top: 20%;
+}
+
+.nametag {
+  font-family: "Euclid Circular A";
+  font-size: 48px;
+  line-height: 104%;
+  text-transform: uppercase;
+}
+
+.without-discription {
+  margin-bottom: 9%;
+}
+
+.discription {
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.first-series {
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.number-series {
+  font-family: "Euclid Circular A";
+  font-size: 13px;
+  line-height: 123%;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.plus img {
+  width: 19px;
+  margin-left: 97.5%;
+  margin-top: -2.75%;
+}
+
+.series p,
+.plus img {
+  display: inline;
+}
+
+.site-footer {
+  background-color: white;
+  margin-top: 45%;
+}
+
+.footer-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-menu ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.footer-nav {
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  line-height: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.footer-logo {
+  position: absolute;
+  right: 42.5%;
+}
+
+.rightside img {
+  padding-right: 10px;
+}
+
+.downside {
+  font-family: "Euclid Circular A";
+  font-size: 16px;
+  line-height: 25px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 5%;
+}
+
+.downside p {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.downside a {
+  position: absolute;
+  right: 41.5%;
+}
